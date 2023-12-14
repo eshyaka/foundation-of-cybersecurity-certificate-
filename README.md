@@ -1,5 +1,5 @@
 # Google Cybersecurity Professional Certificate (foundation-of-cybersecurity-certificate)
-TThe foundation of cybersecurity encompasses the principles, practices, and technologies designed to safeguard digital assets, information, and systems from unauthorized access, attacks, and damage. It is a multidisciplinary field that addresses the protection of computer systems, networks, and data, acknowledging the evolving landscape of threats in the digital age. Key components of the foundation of cybersecurity include:
+The foundation of cybersecurity encompasses the principles, practices, and technologies designed to safeguard digital assets, information, and systems from unauthorized access, attacks, and damage. It is a multidisciplinary field that addresses the protection of computer systems, networks, and data, acknowledging the evolving landscape of threats in the digital age. Key components of the foundation of cybersecurity include:
 
 Confidentiality: Ensuring that sensitive information is accessible only to authorized individuals or systems.
 
